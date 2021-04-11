@@ -1,4 +1,17 @@
 ### Hi there 👋
+I am Simone Silvetti, for more information please visist [simonesilvetti.com](simonesilvetti.com)\
+I’m currently working at [Esteco](www.esteco.com)\
+I'm one of the creator of [pomodorialsole](www.pomodorialsole.com)
+
+My interests are: 
+- Programming (especially: Java, Python, Flutter/Dart, React JS / JavaScript)
+- Machine Learning, Reinforcement Learning, Quantitive Formal Methods
+- Verification of Autonomous Driving Systems
+- Chess
+- Hiking
+- Drum 
+- Minimalism
+
 
 <!--
 **simonesilvetti/simonesilvetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
