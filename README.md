@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am Simone Silvetti, for more information please visist [simonesilvetti.com](simonesilvetti.com)\
-I’m currently working at [Esteco](www.esteco.com)\
-I'm one of the creator of [pomodorialsole](www.pomodorialsole.com)
+I am Simone Silvetti, for more information please visist [simonesilvetti.com](https://simonesilvetti.com)\
+I’m currently working at [Esteco](https://www.esteco.com)\
+I'm one of the creator of [pomodorialsole](https://www.pomodorialsole.com)
 
 My interests are: 
 - Programming (especially: Java, Python, Flutter/Dart, React JS / JavaScript)
