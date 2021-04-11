@@ -1,17 +1,14 @@
 ### Hi there 👋
-I am Simone Silvetti, for more information please visist [simonesilvetti.com](https://simonesilvetti.com)\
-I’m currently working at [Esteco](https://www.esteco.com)\
-I'm one of the creator of [pomodorialsole](https://www.pomodorialsole.com)
+I am Simone Silvetti. More information at [simonesilvetti.com](https://simonesilvetti.com)\
+Researcher and developer for [Esteco](https://www.esteco.com).\
+I'm one of the creator of [pomodorialsole](https://www.pomodorialsole.com)\
+Former collaborator at [MoonLight](https://github.com/MoonLightSuite/MoonLight)
 
 My interests are: 
-- Programming (especially: Java, Python, Flutter/Dart, React JS / JavaScript)
+- Programming (Java, Python, Flutter/Dart, React JS / JavaScript)
 - Machine Learning, Reinforcement Learning, Quantitive Formal Methods
-- Verification of Autonomous Driving Systems
-- Chess
-- Hiking
-- Drum 
-- Minimalism
-
+- Verification of CPS (currently applied to Autonomous Driving Systems)
+- Chess | Hiking | Drum
 
 <!--
 **simonesilvetti/simonesilvetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
