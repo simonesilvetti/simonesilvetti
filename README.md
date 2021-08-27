@@ -1,15 +1,20 @@
-### Hi there 👋
-I am Simone Silvetti. More information at [simonesilvetti.com](https://simonesilvetti.com)\
-Researcher and developer for [Esteco](https://www.esteco.com).\
+### Hi there, I am Simone👋
+I'm researcher and developer @ [Esteco](https://www.esteco.com).\
 I'm one of the creator of [pomodorialsole](https://www.pomodorialsole.com)\
 Former collaborator at [MoonLight](https://github.com/MoonLightSuite/MoonLight)
 
-My interests are: 
+### Connect with me:
+[![Website](https://img.shields.io/website?label=simonesilvetti.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
+[<img align="left" alt="simonesilvetti | LinkedIn" width="25px" src="https://packagingspace.net/files/chunks/5d03ab97a0d5566f83000237/5d03aba5a0d5566f83000238.png" />][linkedin]
+<br />
+
+### My interests are: 
 - Programming (Java, Python, Flutter/Dart, React JS / JavaScript)
 - Machine Learning, Reinforcement Learning, Quantitive Formal Methods
 - Verification of CPS (currently applied to Autonomous Driving Systems)
 - Chess | Hiking | Drum
 
+### Papers [here][scholar]
 <!--
 **simonesilvetti/simonesilvetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://simonesilvetti.com
+[linkedin]: https://it.linkedin.com/in/simonesilvetti
+[scholar]: https://scholar.google.com/citations?user=q_ax9IUAAAAJ
