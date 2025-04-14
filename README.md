@@ -1,10 +1,10 @@
 ### Hi there, I am Simone👋
-I'm researcher and developer @ [Esteco](https://www.esteco.com).\
+I'm researcher @ University of Trieste (previously researcher and developer @ [Esteco](https://www.esteco.com)).\
 I'm one of the creator of [pomodorialsole](https://www.pomodorialsole.com)\
-Former collaborator at [MoonLight](https://github.com/MoonLightSuite/MoonLight)
+Collaborator at [MoonLight](https://github.com/MoonLightSuite/MoonLight)
 
 ### Connect with me:
-[![Website](https://img.shields.io/website?label=simonesilvetti.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
+<!-- [![Website](https://img.shields.io/website?label=simonesilvetti.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website] -->
 [<img align="left" alt="simonesilvetti | LinkedIn" width="25px" src="https://packagingspace.net/files/chunks/5d03ab97a0d5566f83000237/5d03aba5a0d5566f83000238.png" />][linkedin]
 <br />
 
